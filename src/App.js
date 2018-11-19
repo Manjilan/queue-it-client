@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import Nav from './Nav';
 import Header from "./Header";
 import Search from "./Search";
-import BusinessInfo from "./BusinessInfo";
+// import BusinessInfo from "./BusinessInfo";
+import Business from "./Business";
 import './App.css';
 
 class App extends Component {
@@ -12,7 +13,7 @@ class App extends Component {
         <Nav/>
         <Header/>
         <Search/>
-        <BusinessInfo/>
+        <Business/>
       </div>
     );
   }
