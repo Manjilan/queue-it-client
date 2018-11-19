@@ -1,0 +1,10 @@
+.business img{
+  height: 100px;
+}
+.business{
+  display: flex;
+  justify-content: space-around;
+  width: 70%;
+  margin: 1% auto;
+  background-color: #E3E3E3;
+}

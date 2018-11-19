@@ -1,0 +1,8 @@
+input{
+  background-image: url("assets/search-solid.svg");
+  background-repeat: no-repeat;
+  padding:  5px 5px 5px 60px;
+  width: 20%;
+  font: 16px Titillium Web;
+  margin: 2%;
+}
